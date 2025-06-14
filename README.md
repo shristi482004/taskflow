@@ -5,7 +5,7 @@
 
 **TaskFlow** is a modern, feature-rich todo application designed to help you organize your daily tasks with style and efficiency. Built with a focus on user experience, TaskFlow combines beautiful design with powerful functionality to create the perfect task management solution.
 
-Whether you're managing personal projects, work assignments, or daily chores, TaskFlow provides an intuitive interface that makes task management both productive and enjoyable. The application features a stunning glassmorphism design, smooth animations, and thoughtful micro-interactions that create a premium user experience.
+Whether you're managing personal projects, work assignments, or daily chores, TaskFlow provides an intuitive interface that makes task management both productive and enjoyable. The application features a minimalistic design, smooth animations, and thoughtful micro-interactions that create a premium user experience.
 
 ## Key Features
 
@@ -89,3 +89,5 @@ When you have multiple tasks:
 3. **Set Due Dates**: Add deadlines for time-sensitive tasks
 4. **Regular Review**: Use filters to focus on active tasks
 5. **Clean Up**: Regularly clear completed tasks to stay organized
+
+
